@@ -20,7 +20,7 @@ I don't have much experience when it comes to more professional jobs but,
 
 Feel free to contact me through any of these socials.
 
-Twitter: @naethun
-Instagram: @natranniel
-Discord: @nae#3224
+- Twitter: @naethun
+- Instagram: @natranniel
+- Discord: @nae#3224
 
