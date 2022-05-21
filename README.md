@@ -13,7 +13,7 @@ I don't have much experience when it comes to more professional jobs but,
 
 - I worked on a automation Chrome Extension, assisting with a faster checkout proccess.
 - Help organize and build the website for MPC Electronics.
-- Currently working on blockchain automation for NFTs.
+- Currently working on automating the blockchain for NFTs.
 
 ### 💻 Contact:
 
