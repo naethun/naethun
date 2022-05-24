@@ -22,4 +22,4 @@ Feel free to contact me through any of these socials.
 - Twitter: @naethun
 - Instagram: @natranniel
 - Discord: @nae#3224
-
+- Email: naethunn@gmail.com
