@@ -8,7 +8,7 @@ Hello, I'm @naethun (Nathan). The start of my CS career began with a discord bot
 
 Feel free to contact me through any of these socials.
 
-- [![twitter](https://commons.wikimedia.org/wiki/File:Twitter-logo.svg)]: @naethun
-- [![instagram](https://commons.wikimedia.org/wiki/File:Instagram_icon.png)]: @natranniel
-- [![discord]("https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)]: @nae#3224
-- Email: [![gmail](https://commons.wikimedia.org/wiki/File:Gmail_icon_%282020%29.svg)]: naethunn@gmail.com
+- [![twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png)]: @naethun
+- [![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png)]: @natranniel
+- [![discord](https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png)]: @nae#3224
+- [![gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)]: naethunn@gmail.com
