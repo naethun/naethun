@@ -4,7 +4,7 @@ Hello, I'm @naethun (Nathan). The start of my CS career began with a discord bot
 
 - I'm majoring in computer science at San Diego State University.
 - I am in the proccess to learn more languages, JS being my more fluent language.
-- I enjoy doing API based work.
+- I enjoy doing API based work through Node JS.
 - Currently working on automation for NFTs
 
 ### 💻 Contact:
