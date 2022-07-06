@@ -1,6 +1,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naethun&theme=tokyonight)](https://git.io/streak-stats)
 
-Hello, I'm @naethun (Nathan). The start of my CS career began with a discord bot with friends over quarantine. I started coding out of boredom, now it's a huge passion of mine. 
+Hello, I'm @naethun (Nathan). The start of my CS career began creating a discord bot with friends over quarantine. I started coding out of boredom, now it's a huge passion of mine. 
 
 - I'm majoring in computer science at San Diego State University.
 - I am in the proccess to learn more languages, JS being my more fluent language.
