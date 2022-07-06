@@ -1,24 +1,14 @@
-### 💼 Personal background:
-
 Hello, I'm @naethun (Nathan). The start of my CS career began with a discord bot with friends over quarantine. I started coding out of boredom, now it's a huge passion of mine. 
 
-- I'm majoring in computer science at San Diego State University!
+- I'm majoring in computer science at San Diego State University.
 - I am in the proccess to learn more languages, JS being my more fluent language.
-- I enjoy fashion a TON, another big passion of mine.
-
-### 👓 Experience:
-
-I don't have much experience when it comes to more professional jobs but,
-
-- I worked on a automation Chrome Extension, assisting with a faster checkout proccess.
-- Help organize and build the website for MPC Electronics.
-- Currently working on automating the blockchain for NFTs.
+- Currently working on automation for NFTs
 
 ### 💻 Contact:
 
 Feel free to contact me through any of these socials.
 
 - Twitter: @naethun
-- Instagram: @natranniel
-- Discord: @nae#3224
-- Email: naethunn@gmail.com
+- ![instagram] [https://commons.wikimedia.org/wiki/File:Instagram_icon.png]: @natranniel
+- ![discord] [https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg]: @nae#3224
+- ![gmail] [https://commons.wikimedia.org/wiki/File:Gmail_icon_%282020%29.svg]: naethunn@gmail.com
