@@ -7,4 +7,4 @@ Currently in the process of showing all of my projects/works!
 
 Feel free to contact me through any of these socials.
 
-- <img align="center" src="https://png.pngtree.com/template/20190717/ourmid/pngtree-gmail-logo-png-image_229718.jpg" height="19"/> : naethunn@gmail.com
+- <img align="center" src="https://i.pinimg.com/736x/1e/1e/8f/1e1e8fbfed3d555c052154b6bad2c05c.jpg" height="19"/> : naethunn@gmail.com
