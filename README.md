@@ -1,7 +1,7 @@
 hi im nathan!
 
-i started my journey at 15, reselling sneakers during quarantine.
-quickly pipelined into building bots and bypassing anti-bot measures such as Cloudflare, Akamai, TLS fingerprinting checks, etc. 
+i started my journey at 15, reselling sneakers during quarantine.<br>
+quickly pipelined into building bots and bypassing anti-bot measures such as Cloudflare, Akamai, TLS fingerprinting checks, etc. <br>
 since then, ive expanded into developing a wide range of bots and automation tools, including blockchain and web3 systems.
 
 ---
