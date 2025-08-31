@@ -7,7 +7,7 @@ since then, ive expanded into developing a wide range of bots and automation too
 ---
 - currently studying cognitive science, spec. machine learning and neural computation @ UCSD
 - always looking for work. automation, bots, microservices, AI integrations, full-stack platforms, anything.
-- when im not at my laptop, usually doing something fashion related!!
+- when im not at my laptop, im usually doing something fashion related!!
 ---
 
 find me here!
