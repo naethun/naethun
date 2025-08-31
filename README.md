@@ -1,9 +1,17 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naethun&theme=tokyonight)](https://git.io/streak-stats)
+hi im nathan!
 
-Hello, I'm @naethun (Nathan). The start of my CS career began creating a discord bot with friends over quarantine. I started coding out of boredom, now it's a huge passion of mine. 
-Currently in the process of showing all of my projects/works!
+**Automation enthusiast**. 
+I started my journey at 15, reselling sneakers during quarantine. 
+That curiosity quickly evolved into building bots and bypassing anti-bot measures such as Cloudflare, Akamai, and advanced TLS fingerprinting checks. 
+Since then, I’ve expanded into developing a wide range of bots and automation tools, including blockchain and Web3 systems.
+---
+- Studying Cognitive Science, spec. Machine Learning and Neural Computation @ UCSD
+- Based in California
+- Always looking for work. Automation, bots, microservices, AI integrations, full-stack platforms, anything.
+---
 
-### 💻 Contact:
+Find me here:
+- [naethun.dev](https://naethun.dev)  
+- [linkedin.com/in/naethun](https://www.linkedin.com/in/naethun)  
+- Email: naethunn@gmail.com
 
-- naethunn@gmail.com
-- https://www.linkedin.com/in/naethun/
