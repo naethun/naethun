@@ -1,12 +1,13 @@
 hi im nathan!
 
-i started my journey at 15, reselling sneakers during quarantine.<br>
-quickly pipelined into building bots and bypassing anti-bot measures such as Cloudflare, Akamai, TLS fingerprinting checks, etc. <br>
+i started my journey at 15, reselling sneakers during quarantine.<br><br>
+quickly pipelined into building bots and bypassing anti-bot measures such as Cloudflare, Akamai, TLS fingerprinting checks, etc. <br><br>
 since then, ive expanded into developing a wide range of bots and automation tools, including blockchain and web3 systems.
 
 ---
 - currently studying cognitive science, spec. machine learning and neural computation @ UCSD
 - always looking for work. automation, bots, microservices, AI integrations, full-stack platforms, anything.
+- when im not at my laptop, usually doing something fashion related!!
 ---
 
 find me here!
