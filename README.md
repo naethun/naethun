@@ -13,5 +13,5 @@ since then, ive expanded into developing a wide range of bots and automation too
 find me here!
 - [naethun.dev](https://naethun.dev)  
 - [linkedin.com/in/naethun](https://www.linkedin.com/in/naethun)  
-- naethunn@gmail.com
+- hello@naethun.dev
 
