@@ -5,8 +5,8 @@ quickly pipelined into building bots and bypassing anti-bot measures such as clo
 since then, ive expanded into developing a wide range of bots and automation tools, including blockchain and web3 systems.
 
 ---
-- currently studying cognitive science, spec. machine learning and neural computation @ UCSD
-- always looking for work. automation, bots, microservices, AI integrations, full-stack platforms, anything.
+- currently studying cognitive science, spec. design & interaction @ UCSD
+- always open for new work. automation, bots, microservices, AI integrations, full-stack platforms, anything fun!
 - when im not ruining my eyesight, im usually doing something fashion related
 ---
 
